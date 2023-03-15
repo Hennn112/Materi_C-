@@ -1,0 +1,13 @@
+Pentingnya Memahami Baris dan Kolom Juga index
+    Dalam array 2 dimensi kurung index pertama dinamai (Baris) dan
+    kurung index kedua dinamai (kolom)
+
+Bedanya index dan elemen
+    Semua index dimulai dari 0, dan 
+    setiap index memiliki (elemen atau data)
+
+Array 2 dimensi 
+    Memiliki 2 index untuk menentukan baris dan kolom 
+
+!!JIKA EROR INPUT ARRAY
+    array harus ditempatkan dibawah saat mengisi variable kolom dan baris
